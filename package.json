@@ -1,7 +1,6 @@
 {
   "author": "Duplexmedia",
   "name": "webpack-frontend",
-  "version": "1.0",
   "browserslist": [
     "last 2 versions",
     "> 5%"
